@@ -3809,7 +3809,7 @@ body {
 .nav-pills .nav-item i {
   display: block;
   font-size: 20px;
-  line-height: 60px; 
+  line-height: 60px;
 }
 
 .nav-pills.nav-pills-neutral .nav-item .nav-link {
@@ -10336,21 +10336,21 @@ Created using IcoMoon - icomoon.io
 
 
 
-    .back-to-top { 
-      position: fixed; 
-      bottom: 1em; 
-      right: 0px; 
-      text-decoration: none; 
-      color: #fff; 
-      background-color: #f96332; 
-      font-size: 90%; 
-      padding: 1em; 
-      display: none; 
-      font-family: 'open_sansbold', Arial, Helvetica; 
+    .back-to-top {
+      position: fixed;
+      bottom: 1em;
+      right: 0px;
+      text-decoration: none;
+      color: #fff;
+      background-color: #f96332;
+      font-size: 90%;
+      padding: 1em;
+      display: none;
+      font-family: 'open_sansbold', Arial, Helvetica;
       z-index: 999;
-      border-radius:       14px 0 0 14px; 
-     moz-border-radius:  14px 0 0 14px;  
-    webkit-border-radius:14px 0 0 14px; 
+      border-radius:       14px 0 0 14px;
+     moz-border-radius:  14px 0 0 14px;
+    webkit-border-radius:14px 0 0 14px;
      o-border-radius:    14px 0 0 14px;  }
 
 .back-to-top a { color: #000!important;}
