@@ -1653,7 +1653,7 @@ header .overlay {
          /* The image used */
          background-image: url("./assets/img/introimg.jpeg");
          /* Set a specific height */
-         min-height: 500px; 
+         min-height: 500px;
          /* Create the parallax scrolling effect */
          background-attachment: fixed;
          background-position: center;
@@ -1703,4 +1703,11 @@ header .overlay {
 
 #casestudies2 {
     padding-bottom: 0;
+}
+
+/*Social share button*/
+
+.btn.btn-facebook, .navbar .navbar-nav > a.btn.btn-facebook {
+  margin-left: 10px;
+  margin-right: 10px;
 }
